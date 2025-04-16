@@ -1,1 +1,2 @@
 # University-Database
+Short SQL project, showing my understanding of the language SQL, how to use the SQL workbench, and how to make a database. This is still a learning project for me but I really do love being able to create and understand how SQL works. There are additional commands I implemented after creating the database to show that I understand how to modify or find data in a database. I will be continuing to work on how to make more in depth databases and learn how to better use the SQL workbench. This was purley just for fun.
